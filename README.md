@@ -1,4 +1,5 @@
-Link to watch the project online : https://65398ccbbbec7443d1c02e23--tourmaline-vacherin-b46321.netlify.app/products
+This is a simple store project that aims to practice creating a shopping cart with the context api
+
 
 
 ![mainpage](https://github.com/alifcpr/shopping-cart/assets/71038253/ccc1ae05-d1b2-4cf3-83dc-33505b9d479a)
